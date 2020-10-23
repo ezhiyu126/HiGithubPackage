@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>tom</Authors>
+    <Description>测试第一个NuGet包</Description>
+    <RepositoryUrl>https://github.com/ezhiyu126/HiGithubPackage.git</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
